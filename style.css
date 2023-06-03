@@ -1,0 +1,22 @@
+header {
+    background-color: blueviolet;
+
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.affirmation {
+    font-style: italic;   
+}
+
+.gros-delire {
+    font-style: oblique;   
+    background-color: aquamarine;
+}

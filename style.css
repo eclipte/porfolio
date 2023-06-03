@@ -7,6 +7,9 @@ h1 {
     color: red;
 }
 
+h2 {
+    color: darkblue;
+}
 p {
     font-size: 15px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
